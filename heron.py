@@ -1340,7 +1340,7 @@ def Subscraption():
 		print("")
 		print(" Copy And Send Key To Admin")
 		print ("")
-		print (" Your Key : "+HERON+VAU+key1)
+		print (" Copy Your Key : "+HERON+VAU+key1)
 		print ("")
 		name = input (" Your Name : ")
 		print ("")
